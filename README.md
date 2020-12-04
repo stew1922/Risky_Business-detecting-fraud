@@ -7,3 +7,10 @@
     * SMOTE had the best recall
 * Which model had teh best geometric mean score?
     * Random oversampling had the best geometric mean score
+
+
+## [Ensemble Learning](Instructions/Starter_Code/credit_risk_ensemble.ipynb)
+* Which model had the best balanced accuracy score?
+* Which model had the best recall score?
+* Which model had the best geometric mean score?
+* What are the top three features?
